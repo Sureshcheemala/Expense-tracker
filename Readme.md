@@ -1,5 +1,7 @@
-##1. Expense Tracker App
+##1. Expense Tracker App     
+
 #Description:
+
 Developed a personal finance management app that allows users to track daily expenses and incomes, categorize transactions, and visualize spending habits through charts.
 
 #Key Features:
